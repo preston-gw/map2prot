@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: map2prot
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: George
+    family-names: Preston
+    orcid: 'https://orcid.org/0000-0003-4812-139X'
+    affiliation: University of Leeds
+repository-code: 'https://github.com/preston-gw/map2prot'
+abstract: >-
+  map2prot is an R script that maps a set of peptide
+  sequences onto a protein sequence. It is based on scripts
+  that were developed for the visualisation of 'dependent
+  peptides'.
+keywords:
+  - Proteomics
+  - MaxQuant
+license: MIT
+version: 1.0.0
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Preston"
+    given-names: "George"
+    orcid: "https://orcid.org/0000-0003-4812-139X"
+  - family-names: "Yang"
+    given-names: "Liping"
+  - family-names: "Phillips"
+    given-names: "David"
+  - family-names: "Maier"
+    given-names: "Claudia"
+  doi: "10.1371/journal.pone.0235263"
+  journal: "PLoS ONE"
+  start: e0235263 # Article number
+  title: "Visualisation tools for dependent peptide searches to support the exploration of in vitro protein modifications"
+  issue: 7
+  volume: 15
+  year: 2020
