@@ -18,9 +18,9 @@ abstract: >-
   a protein sequence. The main mapping/visualisation code
   was adapted from earlier work (see 
   https://github.com/preston-gw/dependent-peptides), and
-  so the publication describing that work 
-  (DOI: 10.1371/journal.pone.0235263) would be the most
-  appropriate thing to cite.
+  so the most appropriate thing to cite would be the 
+  publication describing that work 
+  (DOI: 10.1371/journal.pone.0235263).
 keywords:
   - Proteomics
   - MaxQuant
