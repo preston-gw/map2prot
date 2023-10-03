@@ -17,4 +17,4 @@ Text.
 Example data for getting started are available via PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
 
 ## Acknowledgements
-My thanks to...
+Thanks to Dr Stuart Warriner (University of Leeds) and Professor Andrew Wilson (University of Birmingham) for supporting this project.
