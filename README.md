@@ -15,3 +15,6 @@ map2prot was written in [R for Windows](https://www.R-project.org/) and requires
 Text.
 
 Example data for getting started are available via PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
+
+## Acknowledgements
+My thanks to...
