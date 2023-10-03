@@ -15,9 +15,12 @@ authors:
 repository-code: 'https://github.com/preston-gw/map2prot'
 abstract: >-
   map2prot is an R script that maps peptide sequences onto 
-  a protein sequence. It is based on some code that was developed 
-  for the visualisation of 'dependent peptides' (see 
-  https://github.com/preston-gw/dependent-peptides).
+  a protein sequence. The main mapping/visualisation code
+  was adapted from earlier work (see 
+  https://github.com/preston-gw/dependent-peptides), and
+  so the publication describing that work 
+  (DOI: 10.1371/journal.pone.0235263) would be the most
+  appropriate thing to cite.
 keywords:
   - Proteomics
   - MaxQuant
