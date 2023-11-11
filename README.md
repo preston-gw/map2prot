@@ -31,4 +31,4 @@ This is an example of a MaxQuant 'peptides.txt' file. It can be used together wi
 4. Review the graphical output. It should look like **example_output.jpg**.
 
 ## Acknowledgements
-I thank Dr Stuart Warriner (University of Leeds) and Professor Andrew Wilson (University of Birmingham) for supporting this project. My work at the University of Leeds has been funded by the [Engineering and Physical Sciences Research Council](https://www.ukri.org/councils/epsrc/).
+I would like to thank Dr Stuart Warriner (University of Leeds) and Professor Andrew Wilson (University of Birmingham) for supporting this project. My work at the University of Leeds has been funded by the [Engineering and Physical Sciences Research Council](https://www.ukri.org/councils/epsrc/).
