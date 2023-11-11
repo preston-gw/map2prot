@@ -22,7 +22,7 @@ As well as the R code (i.e., the tool itself), this file contains usage notes an
 #### 4f5s_A.fasta
 This is an example of a *.fasta file. It contains the sequence of mature bovine serum albumin (A190T variant). The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040), and the sequence within it originates from Protein Data Bank accession [4F5S](https://www.rcsb.org/structure/4f5s). 
 #### peptides.txt
-This is an example of a MaxQuant 'peptides.txt' file. It can be used together with 4f5s_A.fasta to test that the script is working properly. The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
+This is an example of a MaxQuant 'peptides.txt' file. It can be used together with **4f5s_A.fasta** to test that the script is working properly. The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
 
 ## Getting started
 1. Download the script (**map2prot_v1.0.0.R**) and the example input files (**4f5s_A.fasta** and **peptides.txt**).
