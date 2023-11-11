@@ -17,8 +17,8 @@ abstract: >-
   map2prot is an R script that maps peptide sequences onto 
   a protein sequence. The main mapping/visualisation code
   was adapted from earlier work (see 
-  https://github.com/preston-gw/dependent-peptides), and
-  so the most appropriate thing to cite would be the 
+  https://github.com/preston-gw/dependent-peptides), so 
+  the most appropriate thing to cite would be the 
   publication describing that work 
   (DOI: 10.1371/journal.pone.0235263).
 keywords:
