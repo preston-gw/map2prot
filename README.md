@@ -15,7 +15,7 @@ map2prot was written in [R for Windows](https://www.R-project.org/) and requires
 map2prot was adapted from my earlier work on [dependent peptides](https://github.com/preston-gw/dependent-peptides). Please see the [citation metadata](https://github.com/preston-gw/map2prot/blob/main/CITATION.cff) for more information.
 
 ## Files
-#### map2prot_v1.0.0.R
+#### map2prot.R
 This is the R script (i.e., the tool itself). Usage notes and detailed instructions can be found in the script header.
 #### 4f5s_A.fasta
 This is an example of a *.fasta file. It contains the sequence of mature bovine serum albumin (A190T variant). The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040), and the sequence within it originates from Protein Data Bank accession [4F5S](https://www.rcsb.org/structure/4f5s). 
