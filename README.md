@@ -18,7 +18,7 @@ map2prot was adapted from my earlier work on [dependent peptides](https://github
 #### map2prot.R
 This is the R script (i.e., the tool itself). Usage notes and detailed instructions can be found in the script header.
 #### 4f5s_A.fasta
-This is an example of a *.fasta file. It contains the sequence of mature bovine serum albumin (A190T variant). The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040), and the sequence within it originates from Protein Data Bank accession [4F5S](https://www.rcsb.org/structure/4f5s). 
+This is an example of a *.fasta file. It contains the sequence of mature bovine serum albumin (A190T variant). The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040). The albumin sequence originates from Protein Data Bank accession [4F5S](https://www.rcsb.org/structure/4f5s). 
 #### peptides.txt
 This is an example of a MaxQuant 'peptides.txt' file. It can be used together with **4f5s_A.fasta** to test that the script is working properly. The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
 
