@@ -23,7 +23,7 @@ This is an example of a *.fasta file. It contains the sequence of mature bovine 
 This is an example of a MaxQuant 'peptides.txt' file. It can be used together with **4f5s_A.fasta** to test that the script is working properly. The file originates from PRIDE project [PXD013040](https://www.ebi.ac.uk/pride/archive/projects/PXD013040).
 
 ## Getting started
-1. Download the script (**map2prot_v1.0.0.R**) and the example input files (**4f5s_A.fasta** and **peptides.txt**).
+1. Download the script (**map2prot.R**) and the example input files (**4f5s_A.fasta** and **peptides.txt**).
 2. Follow the instructions in the script header.
 3. Review the text output in the R console, checking for any warnings.
 4. Review the graphical output. It should look like **example_output.jpg**.
